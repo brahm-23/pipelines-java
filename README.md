@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/brahmmishra/DevOps/_apis/build/status/brahm-23.pipelines-java?branchName=main)](https://dev.azure.com/brahmmishra/DevOps/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
